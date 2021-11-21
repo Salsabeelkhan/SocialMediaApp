@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/black_shade.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/circle.xml" value="0.25076923076923074" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/follow_active_btn.xml" value="0.2515625" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/follow_btn_bg.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/input_text_bg.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/orange_circle.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/right_round_bg.xml" value="0.26615384615384613" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/drawable/toolbar_bg.xml" value="0.25" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/activity_comment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/activity_login.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/activity_sign_up.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/comment_sample.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/dashboard_rv_design.xml" value="0.2296875" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/dashboard_rv_sample.xml" value="0.264" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/demo_post.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_add.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_add_post.xml" value="0.23541666666666666" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_notification.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_notification2.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_profile.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_request.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/friend_rv_sample.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/notification2sample.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/story_rv_design.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/layout/user_sample.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/menu/menu_item.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/Salsabeel/AndroidStudioProjects/SocialMediaAppSal/app/src/main/res/xml/tabs.xml" value="0.22327898550724637" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

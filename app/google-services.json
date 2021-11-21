@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937494491086",
+    "project_id": "social-media-app-sal",
+    "storage_bucket": "social-media-app-sal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937494491086:android:171bc85936684fb10f459f",
+        "android_client_info": {
+          "package_name": "com.example.socialmediaappsal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937494491086-9dr1gomb6j3pvdbrkvvbj24sc4r4p6ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCveVlsfn9N7sVFWwrhMkGw5zSDXK0t3vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937494491086-9dr1gomb6j3pvdbrkvvbj24sc4r4p6ao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
